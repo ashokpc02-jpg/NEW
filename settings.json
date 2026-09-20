@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "HR_22_WALA"
+    "username": "HR_22_WALA",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "goldensmpis.aternos.me",
     "port": 50663,
-    "version": "1.20.1",
+    "version": "1.20.11",
     "try-creative": false
   },
   "position": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Jion to Golden SMPP!",
-        "Golden Smpp https://discord.gg/c279uRUnX"
+        "Join to Golden SMP!",
+        "Golden SMP https://discord.gg/c279uRUnX"
       ]
     },
     "chat-log": true,
