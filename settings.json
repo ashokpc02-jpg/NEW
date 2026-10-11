@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "HR_22_WALA",
+    "username": "HR_WALA",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "GoldensCraft.aternos.me",
-    "port": 39492,
-    "version": "1.20.1",
+    "port":39492,
+    "version": "1.20.11",
     "try-creative": false
   },
   "position": {
